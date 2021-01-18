@@ -2,6 +2,11 @@
 
 ## Pre-Requists:-
 
+### 1) Basic Understanding of Git
+### 2) Heroku Account
+### 3) Basic Understanding of Php
+### 4) Understanding of the stack language used in Web Dev
+
 
 
 
