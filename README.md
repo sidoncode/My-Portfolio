@@ -1,16 +1,18 @@
 # My-Portfolio
 
+## Pre-Requists:-
+
+
+
 
 
 
 
 ### Code Snippets:-
 
-
-
-#### mkdir portfolio
-#### cd portfolio
-#### echo "html tags + some content" > home.html 
-#### echo '<?php include_once("home.html"); ?>' > index.php
-#### echo '{}' > composer.json
+  #### mkdir portfolio
+  #### cd portfolio
+  #### echo "html tags + some content" > home.html 
+  #### echo '<?php include_once("home.html"); ?>' > index.php
+  #### echo '{}' > composer.json
 
