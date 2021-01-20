@@ -21,3 +21,16 @@
   #### echo '<?php include_once("home.html"); ?>' > index.php
   #### echo '{}' > composer.json
 
+# Siddharth-Portfolio
+Heruko Deployment
+
+
+## Node js app
+## deployed in Heruko server
+## Added a custom domain
+
+
+## To do's
+### buy domain(cheap) valid for 1 year
+### get a free ssl certificate
+### after expiring of the 
