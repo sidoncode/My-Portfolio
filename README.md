@@ -37,6 +37,6 @@ Heruko Deployment
 
 
 ## Things for the dev part (not in priority)
-### Can we get
+### Can we get a free
 
 
