@@ -38,5 +38,5 @@ Heruko Deployment
 
 ## Things for the dev part (not in priority)
 ### Can we get a free SSL Certificate from infinityfree
-
+### infinityfree accounts are getting closed for making some free space in their server
 
