@@ -21,10 +21,6 @@
   #### echo '<?php include_once("home.html"); ?>' > index.php
   #### echo '{}' > composer.json
 
-# Siddharth-Portfolio
-Heruko Deployment
-
-
 ## Node js app
 ## deployed in Heruko server
 ## Added a custom domain
@@ -39,4 +35,10 @@ Heruko Deployment
 ## Things for the dev part (not in priority)
 ### Can we get a free SSL Certificate from infinityfree
 ### infinityfree accounts are getting closed for making some free space in their server
+
+
+
+# Siddharth-Portfolio
+Heruko Deployment
+
 
