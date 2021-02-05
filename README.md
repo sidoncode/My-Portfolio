@@ -8,11 +8,6 @@
 ### 4) Understanding of the stack language used in Web Dev
 
 
-
-
-
-
-
 ### Code Snippets:-
 
   #### mkdir portfolio
