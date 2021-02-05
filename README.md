@@ -30,7 +30,7 @@
 ## Things for the dev part (not in priority)
 ### Can we get a free SSL Certificate from infinityfree
 ### infinityfree accounts are getting closed for making some free space in their server
-
+### if we buy the domain then can we get the phpmyadmin database
 
 
 # Siddharth-Portfolio
