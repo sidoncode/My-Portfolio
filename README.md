@@ -38,6 +38,9 @@
 ### 1) Added a new theme to it
 ### 2) Files From assets from image to composer.json file and the javascipt files.
 ### 3) 
+
+### Need to check and add the following things in the next deployment
+
 # Siddharth-Portfolio
 Heruko Deployment
 
