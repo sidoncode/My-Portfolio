@@ -33,6 +33,11 @@
 ### 3) if we buy the domain then can we get the phpmyadmin database
 
 
+
+## Things which have done recently
+### 1) Added a new theme to it
+### 2) Files From assets from image to composer.json file and the javascipt files.
+### 3) 
 # Siddharth-Portfolio
 Heruko Deployment
 
